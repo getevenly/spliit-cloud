@@ -20,6 +20,7 @@ who is affected, and the exact migration steps.
 ### 🚀 Features
 
 - Short entry per user-facing change (`TBD` by @TBD)
+- Apps connected through OAuth can now work with budgets, invite links, expense document uploads and receipt or voice scanning. Each has its own scope on the consent screen, and email invitations stay browser-only. Thanks @sundowndev for opening [#174](https://github.com/antonio-ivanovski/spliit-cloud/issues/174) (`TBD` by @TBD)
 
 ### 🐛 Bug fixes
 
